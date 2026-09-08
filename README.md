@@ -34,7 +34,7 @@ Obsidian, **Python 3.x** gerektirir ve UI için iki adet kütüphane kullanır: 
 
 1. Repository'yi klonlayın:
 ```bash
-git clone https://github.com/yourusername/obsidian.git
+git clone https://github.com/f3nr1rs3c/obsidian.git
 cd obsidian
 ```
 
